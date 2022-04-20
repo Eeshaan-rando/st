@@ -1,0 +1,13 @@
+# What patches have I used?
+
+* [alpha](https://st.suckless.org/patches/alpha)
+* [blinking cursor](https://st.suckless.org/patches/blinking_cursor)
+* [xresources](https://st.suckless.org/patches/xresources)
+
+# Installation
+
+```
+git clone https://github.com/Eeshaan-rando/st
+cd st
+sudo make clean install
+```
